@@ -1,0 +1,66 @@
+body{
+    background-color:black;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#textoepoque{
+    font-size: xx-large;
+    margin-left: 80px;
+    color:rgb(237, 227, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: rgb(188, 180, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yours{
+    color:white ;
+    font-size: xx-large;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.test{
+    color:white;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vapo{
+    color:white;
+    font-size: xx-large;
+    margin-left: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagemfundologo{
+background-position: center;
+background-repeat: no-repeat;
+background-size:cover;
+background-attachment: fixed;
+width: 550px;
+height: 400px;
+margin-left: 450px; 
+}
+.botao{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    height: 50px;
+    font-family: kanit Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    cursor: pointer;
+    
+}   
+ 
